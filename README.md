@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Soni</h1>
 <h3 align="center">A passionate Techie from India</h3>
 <p align="center" width="100%">
-    <img width="33%" src="https://i.ibb.co/VY7WMxZ/instadp-rohitsoni-full-size-removebg-preview-1.png">
+    <img width="33%" src="https://www.vim.org/images/vim_drill_small.JPG">
+    <h6 align="center">drilling the code 😂</h6>
+
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsoniinfo" alt="rohitsoniinfo" /></a> </p>
