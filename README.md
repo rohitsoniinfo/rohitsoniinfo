@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Soni</h1>
-<h3 align="center">A passionate Techie from India</h3>
+<h3 align="center">A passionate Techie from EARTH</h3>
 <p align="center" width="100%">
     <img width="33%" src="https://www.vim.org/images/vim_drill_small.JPG">
     <h6 align="center">drilling the code 😂</h6>
